@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="G:/软件/学习软件/地信软件/SuperMap系列/SuperMap 9D系列/supermap-iobjectsjava-9.0.1-15628-65435-win-all/Bin/com.supermap.analyst.networkanalyst.jar"/>
+	<classpathentry kind="lib" path="G:/软件/学习软件/地信软件/SuperMap系列/SuperMap 9D系列/supermap-iobjectsjava-9.0.1-15628-65435-win-all/Bin/com.supermap.data.jar"/>
+	<classpathentry kind="lib" path="G:/软件/学习软件/地信软件/SuperMap系列/SuperMap 9D系列/supermap-iobjectsjava-9.0.1-15628-65435-win-all/Bin/com.supermap.mapping.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
